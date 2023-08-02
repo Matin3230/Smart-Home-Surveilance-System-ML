@@ -35,9 +35,11 @@ e. The system uses algorithms and machine learning to identify and match facial 
 f. The system can provide real-time alerts to security personnel, enabling them to take appropriate action.
 
 
+------------------------------------------------------------------------------------------------------------------------------------------
 
 ![image](https://github.com/Matin3230/Smart-Home-Surveilance-System-Using-ML/assets/85051013/39775be1-4226-4596-8176-2a523db655ec)
 
+------------------------------------------------------------------------------------------------------------------------------------------
 
 
 **How to run this project ?**
